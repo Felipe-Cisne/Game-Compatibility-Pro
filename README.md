@@ -10,11 +10,11 @@ O programa ajuda a verificar se o seu PC aguenta rodar qualquer jogo da Steam.
 * Mostra um medidor (Gauge) visual com a porcentagem de compatibilidade.
 
 * ## [Screenshots]
-* ![Tela Inicial](Assets/Interface.png)
 * * Tela inicial do Game Compatibility Pro
- 
+* ![Tela Inicial](Assets/Interface.png)
+
+* Resultado da pesquisa e compatibilidade
 * ![Resultado da pesquisa](Assets/Interface2.png)
-* * Resultado da pesquisa e compatibilidade
 
 ## Tecnologias
 * **Linguagem:** Python (Desenvolvido inteiramente nesta linguagem).
